@@ -1,0 +1,41 @@
+<!-- Begin Page Content -->
+<div class="container-fluid">
+    <!-- DataTales Example -->
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <div class="row">
+                <h6 class="m-0 font-weight-bold text-primary col-xl-6">All Devices</h6>
+            </div>
+        </div>
+        <div class="card-body">
+            <div class="table-responsive" *ngIf="devicesList">
+                <table class="table table-bordered" datatable id="dataTable" width="100%" cellspacing="0">
+                    <thead>
+                        <tr>
+                            <th>Device</th>
+                            <th>Driver</th>
+                            <th>Channels</th>
+                            <th>Speed</th>
+                            <th>Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr *ngFor="let device of devicesList">
+                            <td><img src="../../../../assets/app/img/car.svg" width="20px"> {{device.deviceid}}</td>
+                            <td>{{device.drivername}}</td>
+                            <td>{{device.channel}} Channels</td>
+                            <td>{{device.gpsdata.speedInKmh}} Km/Hr</td>
+                            <td>
+                                <div class="text-center">
+                                    <a (click)="deviceDetail(device)"><button title="Edit" class="btn btn-primary fa fa-eye"></button></a>
+                                </div>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+</div>
+<ngx-spinner type="square-jelly-box" size="medium"></ngx-spinner>

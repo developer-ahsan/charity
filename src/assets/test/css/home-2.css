@@ -1,0 +1,33 @@
+body.home-2 .timer span,body.home-2 .global-link-color,body.home-2 .icon_list_icon i,body.home-2 .single-features a:hover i,body.home-2 .parallax-content h3 span{color: #F1C40F;}
+
+body.home-2 .mainmenu ul#nav > li > a::before, body.home-2 .mainmenu ul#nav li ul.sub-menu li a:hover,body.home-2 .mainmenu ul#nav li .mega-menu span > a:hover,body.home-2 .team-icon i:hover,body.home-2 .stay-left input[type="submit"],body.home-2 .stay-right input[type="submit"],body.home-2 .share-icon-footer i:hover{
+  background: #F1C40F none repeat scroll 0 0;
+}
+
+body.home-2 .stay-left input[type="submit"]:hover,body.home-2 .stay-right input[type="submit"]:hover{background:#C19D0B}
+
+body.home-2 .readon,a.button-more,body.home-2 a.button-more{
+  background: #F1C40F none repeat scroll 0 0;
+  border: 2px solid #F1C40F;
+}
+
+body.home-2 .readon:hover,body.home-2 a.button-more:hover {
+  background: #C19D0B none repeat scroll 0 0;
+  border-color: #C19D0B;
+  color: #fff;
+}
+body.home-2 .team-details p {
+  border-top: 1px solid rgba(241, 196, 15, 0.3)
+}
+body.home-2 .story-text a.button-more {
+  background: transparent none repeat scroll 0 0;
+}
+body.home-2 .story-text a.button-more:hover {
+  background-color: #c19d0b;
+}
+body.home-2 nav.footer-menu ul li a ,body.home-2 .powered-by p a{
+  color: #ab9f72;
+}
+body.home-2 .mainmenu {
+  margin-left: 3px;
+}
