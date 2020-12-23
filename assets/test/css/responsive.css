@@ -1,0 +1,656 @@
+@media screen and (min-width: 1920px)and (max-width: 2559px) {}
+
+/* Large desktop :1200px. */
+@media (min-width: 1200px) {
+ 
+}
+ 
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1169px) {
+h4.progress-h4 {
+	font-size: 18px;
+}
+.mainmenu ul#nav li a {
+  font-size: 14px;
+  padding: 22px 29px;
+}
+.support-all {
+  margin-left: -20px;
+}
+.single-support {
+  margin-left: 18px;
+  width: 17.9%;
+}
+p.warning {
+  margin: 16px 0 0;
+  padding-left: 20px;
+}
+.stay-right input[type="text"], .stay-right input[type="email"] {
+  width: 48.6%;
+}
+.about-us-footer > p {
+  color: #ddd;
+  margin-bottom: 22px;
+}
+.back {
+  margin-top: 20px;
+  text-align: right;
+}
+.item-a-info {
+  overflow: hidden;
+}
+.contact-img {
+  width: 50%;
+}
+
+
+
+.program-count .timer span {
+font-size: 16px;
+}
+.program-start .timer span {
+padding: 10px 12px;
+}
+
+
+}
+ 
+ 
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) { 
+
+/* ------------------
+home page 1  
+----------------------*/
+.user-img {
+	margin-right: 10px;
+	width: 50px;
+}
+.back {
+	margin-top: 15px;
+}
+.super-user .super-user-content {
+	padding-bottom: 0px;
+}
+.panel-content h3 {
+  display: none;
+}  
+.mainmenu ul#nav li a {
+  font-size: 13px;
+  padding: 22px 14px;
+}
+.mainmenu ul#nav li .mega-menu {
+  width: 580px;
+}
+.progress-circular {
+  margin-bottom: 25px;
+}
+.parallax-content h3 {
+  font-size: 41px;
+}
+.parallax-content h3::before, .story-text h3::before {
+  top: 55px;
+}
+.parallax-content {
+  padding-top: 90px;
+}
+.single-team {
+  margin-bottom: 25px;
+}
+.single-support {
+  width: 28.6%;
+  margin-bottom: 20px;
+    margin-left: 33px;
+}
+p.warning {
+  margin: 14px 0 0;
+}
+.stay-right input[type="text"], .stay-right input[type="email"] {
+  width: 48%;
+  margin-left: 1px;
+}
+.stay-right textarea#message {
+  height: 85px;
+}
+.our-child {
+  margin-top: 35px;
+}
+figure.effect-bubba p {
+  display: none;
+}
+.story-text {
+  margin-top: 25px;
+}
+
+/* ------------------
+Blog page 
+----------------------*/
+.user-text {
+  overflow: inherit;
+}
+.blog-user-text {
+  float: none;
+  overflow: hidden;
+}
+.heading-content h1 {
+  font-size: 40px;
+}
+.back {
+  margin-top: 15px;
+}
+.item-a-info {
+  overflow: hidden;
+}
+.super-user-link {
+  margin-bottom: 25px;
+}
+.single-comment-one {
+  padding-top: 25px;
+}
+.control-level input {
+  margin-bottom: 15px;
+}
+.single-event-contact .textarea-contact {
+  margin-top: 0;
+}
+
+/* ------------------
+FAQ Page 2
+----------------------*/
+.your-answered {
+  margin-top: 20px;
+}
+.donate-accordion h3 a {
+  padding: 12px 12px 12px 40px;
+}
+
+/* ------------------
+Team Page 1
+----------------------*/
+.lead-img {
+  width: 100%;
+}
+.lead-content {
+  float: left;
+  padding: 1.5em;
+  text-align: center;
+  width: 100%;
+}
+
+/* ------------------
+Team Page 2
+----------------------*/
+.single-counter {
+  margin-bottom: 20px;
+}
+
+/* ------------------
+Event page
+----------------------*/
+.our-skril .progress {
+  margin: 5px 8px;
+}
+
+.program-start .program-count .timer span {
+font-size: 12px;
+}
+.program-start .timer span {
+padding: 10px 8px;
+}
+.program-start .timer p{font-size:10px;color:#444}
+
+/* ------------------
+Contact page
+----------------------*/
+.contact-map {
+  margin-top: 30px;
+}
+.mrg-top-md {
+    margin-top: 30px;
+}
+    
+    
+    
+    
+    
+    
+    
+  
+}
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+.share-icon-footer i {
+	width: 33px;
+	font-size: 15px;
+	padding-top: 11px;
+}
+.parallax-content {
+	padding-top: 70px;
+	padding-bottom: 80px;
+}
+.stay-left .padd-0 {
+	padding-left: 15px;
+}
+.grid {
+	padding: 1em 0 2em;
+}
+.slicknav_nav .slicknav_row:hover {
+  background: #F04B51 none repeat scroll 0 0;
+  border-radius: 0;
+  color: #fff;
+}
+.slicknav_nav a:hover {
+  background: #F04B51 none repeat scroll 0 0;
+  border-radius: 0;
+  color: #fff;
+}
+.slicknav_nav .slicknav_row {
+  padding: 10px 10px;
+}
+.slicknav_nav a {
+  padding: 10px 10px;
+}
+.slicknav_nav li {
+  text-transform: uppercase;
+}
+.slicknav_btn:hover {
+  background: #F14B51;
+}
+.slicknav_btn {
+  border-radius: 0;
+  padding: 10px 20px;
+}
+/* ------------------
+home page 1  
+----------------------*/
+.mainmenu {
+  display: none;
+}
+.slicknav_menu{display:block}
+.panel-content {
+	text-align: left;
+    margin-top: 30px;
+}
+.header_area {
+	padding: 35px 0 8px;
+}
+.panel-content h3 {
+	margin: 0px 5px 10px 0;
+    text-align: left;
+}
+.timer span {
+	padding: 10px 12px;
+}
+.single-features {
+  margin-bottom: 30px;
+}
+.grid figure {
+  min-width: 100%;
+}
+figure.effect-bubba p {
+  display: none;
+}
+.progress-circular {
+  margin-bottom: 25px;
+}
+.parallax-content p {
+  display: none;
+}
+.parallax-area {
+  padding: 50px 0;
+}
+.parallax-content h3::before, .story-text h3::before {
+  display: none;
+}
+.single-team {
+  margin-bottom: 30px;
+}
+.story-text {
+  margin-top: 25px;
+}
+.support-all {
+  margin-left: 0;
+}
+.single-support {
+  margin-left: 0;
+  width: 100%;margin-bottom: 20px;
+}
+.stay-left input[type="text"], .stay-left input[type="email"] {
+  margin-bottom: 20px;
+}
+.stay-left input[type="submit"] {
+  margin-top: 0;
+  width: 50%;
+} 
+p.warning {
+  margin: 5px 0 0;
+  padding-left: 0;
+  margin-bottom: 25px;
+}
+.stay-right input[type="text"], .stay-right input[type="email"] {
+  width: 100%;
+}
+.stay-right input[type="email"] {
+  margin-left: 0;
+  margin-top: 10px;
+}
+.about-us-footer > p {
+  margin-bottom: 25px;
+}
+.about-us-footer {
+  margin-bottom: 20px;
+}
+.our-child {
+  margin-top: 25px;
+}
+/* ------------------
+blog page 
+----------------------*/ 
+.back {
+  text-align: left;
+    margin-top: 5px;
+}
+.pagination ul li {
+  padding: 6px 7px;
+}
+.blog-user-text {
+  float: none;
+  overflow: hidden;
+}
+.single-support {
+  text-align: center;
+}
+.heading-content h1 {
+  font-size: 33px;
+    margin: 0 0 7px;
+}
+.super-user-link {
+  margin-bottom: 25px;
+}
+.single-comment-one {
+  padding-top: 25px;
+}
+.control-level input {
+  margin-bottom: 15px;
+}
+.single-event-contact .textarea-contact {
+  margin-top: 0;
+}
+.sidebar-p {
+  margin-top: 30px;
+}
+
+/* ------------------
+FAQ Page
+----------------------*/
+.any-question {
+  width: 100%;
+}
+.question-accordion h3 a {
+  font-size: 13px;
+}
+
+.fag-contact-form {
+  margin-top: 30px;
+}
+.mrg-top-xs {
+  margin-top: 30px;
+}
+.link-list h3 {
+  margin-bottom: 10px;
+}
+.link-menu ul li:last-child {
+	margin-bottom: 0px;
+}
+.faq-info {
+	padding: 45px 0;
+}
+.important-link-area {
+	padding-bottom: 45px;
+}
+.link-list.mrg-top-xs.mrg-top-xs-none {
+	margin-top: 0;
+}
+/* ------------------
+FAQ Page 2
+----------------------*/
+.your-answered h3::before{
+  top: inherit;
+  bottom: -18px;
+}
+.donate-us-content {
+  margin-bottom: 30px;
+}
+.donate-us-area {
+  padding-bottom: 40px;
+}
+.support-forum {
+  margin-bottom: 25px;
+}
+
+/* ------------------
+Team Page 1
+----------------------*/
+.lead-img {
+  width: 100%;
+}
+.lead-content {
+  width: 100%;
+}
+.our-leaders {
+  margin-bottom: 30px;
+}
+.volunteers-icon a i {
+  width: 33px;
+}
+
+/* ------------------
+Team Page 2
+----------------------*/
+.team-2 {
+  margin-top: 20px;
+}
+.single-counter {
+  margin-bottom: 20px;
+} 
+.couter-p {
+  padding-bottom: 45px;
+}
+
+/* ------------------
+Gallery Page 1
+----------------------*/
+.gallery-img img {
+  width: 100%;
+}
+
+/* ------------------
+Gallery Page 2
+----------------------*/
+.gallery2-img a img {
+  width: 100%;
+}
+
+/* ------------------
+Gallery Page 3
+----------------------*/
+.gallery3-img img {
+  width: 100%;
+}
+
+/* ------------------
+donation page 
+----------------------*/
+.payment-method .pure-control-group label {
+  display: block;
+  text-align: left;
+}
+.payment-method .pure-controls {
+  margin: 0;
+}
+
+/* ------------------
+event page 
+----------------------*/ 
+.program-start .program-count .timer span {
+font-size: 15px;
+}
+.program-start .timer span {
+padding: 10px 13px;
+}
+.program-start .timer p{font-size:10px;color:#444} 
+.program-start {
+  margin-bottom: 35px;
+}
+.calneder-type {
+  margin-bottom: 35px;
+}
+
+/* ------------------
+single event page 
+----------------------*/  
+.single-event-contact .contact-form-ac {
+  margin-top: 50px;
+} 
+.our-goal {
+  margin-top: 35px;
+}
+
+/* ------------------
+Contact page 
+----------------------*/ 
+.contact-img > img {
+  width: 100%;
+}
+.textarea-contact textarea#message-ac {
+  height: 120px;
+}
+.contact-map {
+  margin-top: 30px;
+}
+.parallax-content h3 {
+	font-size: 29px;
+} 
+    
+    
+    
+    
+    
+    
+.parallax-content h3 {
+	color: #fff;
+	font-size: 29px;
+	position: relative;
+}
+.pagination {
+	display: block;
+}    
+.contact-form-ac {
+	padding: 0 20px;
+}    
+.contact-info > p {
+	padding-left: 20px;
+	padding-right: 20px;
+}    
+.contact-address {
+	padding-left: 20px;
+}    
+.donors-content.box1 {
+	margin-top: 30px;
+}    
+.donors-content {
+	min-height: 293px;
+}    
+.support-forum-area {
+	padding-bottom: 45px;
+}    
+.questions-border {
+	margin: 0px 0 30px;
+}    
+.support-forum h3 {
+	font-size: 20px;
+}    
+.k2-content.sidebar-p {
+	margin-bottom: 0;
+} 
+.calneder-type.box2 {
+	margin-bottom: 0;
+}    
+.team-divider {
+	margin: 0px 0 35px;
+}    
+.our-story-area {
+	padding: 30px 0 80px;
+}    
+.team-area {
+	padding: 50px 0;
+}    
+    
+    
+ 
+}
+ 
+/* Large Mobile :480px. */
+ 
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+/* ------------------
+home page 1  
+----------------------*/
+.logo {
+  text-align: center;
+}
+figure.effect-bubba p {
+  display: block;
+}
+#circle span, #circle2 span, #circle3 span, #circle4 span {
+  left: 43%;
+  top: 15%;
+}
+
+.support-all {
+  margin-left: -8px;
+}
+.single-support {
+  margin-left: 8px;
+  width: 48%;
+}
+.map-content span.right-content {
+  float: left;
+  margin-top: 8px;
+}
+
+/* ------------------
+Team Page 1
+----------------------*/
+.volunteers-icon a i {
+  width: 45px;
+}
+
+.program-start .program-count .timer span {
+font-size: 20px;
+}
+.program-start .timer span {
+padding: 10px 25px;
+}
+.program-start .timer p{font-size:16px;color:#444} 
+ 
+.panel-content {
+	text-align: center;
+} 
+.panel-content {
+	margin-top: 15px;
+}    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
+ 
